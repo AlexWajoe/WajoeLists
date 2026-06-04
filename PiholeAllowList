@@ -15,3 +15,14 @@ cbsinteractive.hb.omtrdc.net
 tags.tiqcdn.com
 imasdk.googleapis.com
 production-cmp.isgprivacy.cbsi.com
+saa.paramountplus.com	
+saa.cbsi.com	
+vod-gcs-cedexis.cbsaavideo.com	
+cbsinteractive.hb.omtrdc.net	
+cbsi.live.ott.irdeto.com	
+tags.tiqcdn.com	
+wwwimage-us.pplusstatic.com	
+wwwimage-secure.cbsstatic.com	
+thumbnails.cbsig.net	
+bakery.pplus.paramount.tech	
+^[^.]+\.cws\.conviva\.com$ 
